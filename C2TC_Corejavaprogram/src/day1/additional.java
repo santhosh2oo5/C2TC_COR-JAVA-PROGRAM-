@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class additional {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int a,b,c;
 		Scanner sc;

@@ -18,7 +18,7 @@ public class CharDemo {
 		char var2 = '\u20AC';
 		System.out.println(var2);
 
-		int a = 'p';
+		int a = 'a';
 		System.out.println(a);
 	}
 }
