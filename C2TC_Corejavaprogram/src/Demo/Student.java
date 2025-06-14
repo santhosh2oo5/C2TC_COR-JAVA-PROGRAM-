@@ -1,5 +1,4 @@
 package Demo;
-
 public class Student {
 	public static void main(String[] args) {
 		Studentt st   =new Studentt();
@@ -8,7 +7,6 @@ public class Student {
 		st.setAge(20);
 		
 		System.out.println(st);
-		
 		
 		Studentt st1   =new Studentt();
 		st1.setId(102);

@@ -26,8 +26,5 @@ public class Studentt {
 	public String toString() {
 		return "Studentt [id=" + id + ", name=" + name + ", age=" + age +  "]";
 	}
-	
-	
-	
 
 }
